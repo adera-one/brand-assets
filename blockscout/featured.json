@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Mainnet Explorer",
+    "url": "https://adrscan.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/adera-one/brand-assets/refs/heads/main/universal/aderaone-logo.svg",
+    "isActive": true
+ },
+  {
+    "title": "Staking Validator",
+    "url": "https://staking.adrscan.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/adera-one/brand-assets/refs/heads/main/universal/aderaone-logo.svg"
+  }
+]
